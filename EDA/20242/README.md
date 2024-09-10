@@ -1,6 +1,6 @@
 - Evaluate your friends work.
 
-Table Description
+Table Description <br>
 _ID: This is a unique identifier of the accident record. <br>
 _text_format_Source: Source of raw accident data <br>
 _grid_3x3_Severity: Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay). <br>
